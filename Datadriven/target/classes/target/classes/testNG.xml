@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Test suite">
+    <test name = "Test cases">
+        <classes>
+            <class name="src.logintestcases.Correctboth"></class>
+            <class name="src.logintestcases.Correctpassword"></class>
+            <class name="src.logintestcases.Correctusername"></class>
+            <class name="src.logintestcases.IncorrectUsername"></class>
+        </classes>
+
+    </test>
+
+</suite>
