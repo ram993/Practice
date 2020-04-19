@@ -1,0 +1,16 @@
+<suite name = "Suite">
+    <test name = "Test">
+        <classes>
+            <class name ="javalearn.day1"/>
+            <class name ="javalearn.day3"/>
+
+        </classes>
+    </test>
+    <test name = "Test2">
+    <classes>
+        <class name ="javalearn.day2">
+
+        </class>
+    </classes>
+</test>
+</suite>
